@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="WelcomeMessage" xml:space="preserve">
+        <value>Welcome to Minehopper!</value>
+    </data>
+    <data name="Instructions" xml:space="preserve">
+        <value>Move position with cursor keys, or 'e' to exit: </value>
+    </data>
+    <data name="InvalidKeyMessage" xml:space="preserve">
+        <value>Invalid key pressed.</value>
+    </data>
+    <data name="WonMessage" xml:space="preserve">
+        <value>You won!  Game over.  Lives left: {0}, Moves taken: {1}.</value>
+    </data>
+    <data name="MovedMessage" xml:space="preserve">
+        <value>You moved.  New position is {0}. Lives left: {1}, moves taken: {2}.</value>
+    </data>
+    <data name="DeadMessage" xml:space="preserve">
+        <value>Sorry. You are dead.  Moves taken: {0}.</value>
+    </data>
+    <data name="BoomMessage" xml:space="preserve">
+        <value>BOOM! You hit a mine.  Lives left: {0}, Moves taken: {1}.</value>
+    </data>
+    <data name="InvalidMoveMessage" xml:space="preserve">
+        <value>You can't move that way.</value>
+    </data>
+    <data name="MinesRemainingMessage" xml:space="preserve">
+        <value>Mines remaining: {0}.</value>
+    </data>
+    <data name="CurrentLocationMessage" xml:space="preserve">
+        <value>Current location is {0}.</value>
+    </data>
+    <data name="HitMineAndWonMessage" xml:space="preserve">
+        <value>You hit a mine but you won!  Game over.  Lives left: {0}, Moves taken: {1}.</value>
+    </data>
+</root>

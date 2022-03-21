@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minehopper", "Minehopper\Minehopper.csproj", "{2CF3085F-4669-4772-BDFC-F90D21A43075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minehopper.UnitTests", "Minehopper.UnitTests\Minehopper.UnitTests.csproj", "{14BD436E-10B1-4096-9F43-5855948D01FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CF3085F-4669-4772-BDFC-F90D21A43075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF3085F-4669-4772-BDFC-F90D21A43075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF3085F-4669-4772-BDFC-F90D21A43075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF3085F-4669-4772-BDFC-F90D21A43075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14BD436E-10B1-4096-9F43-5855948D01FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BD436E-10B1-4096-9F43-5855948D01FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BD436E-10B1-4096-9F43-5855948D01FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BD436E-10B1-4096-9F43-5855948D01FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
